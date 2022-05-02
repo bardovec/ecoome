@@ -27,4 +27,6 @@ And thats it) But dont waste your time i am deploy my back to heroku and front o
 ### Sort the products
 ### Editing
 ### And good looking
+Only desktop
 
+https://ecoomeme.netlify.app/
