@@ -17,7 +17,7 @@ const handleDelete = () => {
         <Card className={classes.card}>
             <img className={classes.media} src={post.imageUrl} alt=""/>
             <Box className={classes.cardInfo} >
-            <Typography variant='h6'> Название Продукта: {post.name}</Typography>
+            <Typography variant='h6'> Название: {post.name}</Typography>
             <Typography variant='h6'>Количество: {post.count}</Typography>
             <Typography variant='h6'>Вес: {post.weight}</Typography>
             <Typography variant='h6'>Комментарии: {post.comments}</Typography>

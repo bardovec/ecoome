@@ -2,14 +2,14 @@ import { makeStyles } from '@material-ui/core/styles';
 
 export default makeStyles({
     media: {
-        height: '10%',
+        height: '100%',
 
     },
     card: {
         display: 'flex',
-        // alignItems: 'center',
         flexDirection: 'column',
         borderRadius: '15px',
+
 
     },
     cardInfo: {
